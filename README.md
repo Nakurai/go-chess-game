@@ -2,9 +2,7 @@
 
 This is a project to practice Go. It is a very naive implementaiton of a chess logic. I think it is also a very good playground.
 
-<div style="width: 60%; height: 60%">
-![Chess Game Screensho](/docs/chess-game.png)
-</div>
+![Chess Game Screenshot](/docs/chess-game.png)
 
 # How to Run
 
